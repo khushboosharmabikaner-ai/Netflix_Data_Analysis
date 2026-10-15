@@ -4,12 +4,12 @@
 This project analyzes the Netflix Movies and TV Shows dataset using Python to identify content trends and generate meaningful insights.
 ## Objectives
 
-- Analyze Netflix Movies and TV Shows data.
+- Analyse Netflix Movies and TV Shows data.
 - Compare Movies and TV Shows.
 - Identify the top countries contributing content.
 - Find the most common genres.
-- Analyze content growth over the years.
-- Analyze content ratings.
+- Analyse content growth over the years.
+- Analyse content ratings.
 ## Technologies Used
 
 - Python
